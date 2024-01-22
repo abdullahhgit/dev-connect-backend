@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://root:root@dev-connect.mzng0iz.mongodb.net/",
+    "jwtSecret" : "mysecret",
+    "githubClientId": "b6f355df85f6e7a8e00e",
+    "githubSecret": "64a14e926c507f3f090ecad4cfd9b1331c0cb98b"
+}
